@@ -1,0 +1,32 @@
+# Entorno y secretos
+.env
+.env.local
+*.env
+
+# Control de versiones
+.git
+.gitignore
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+.venv/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Documentación
+README.md
+*.md
+
+# Sistema
+.DS_Store
+Thumbs.db
